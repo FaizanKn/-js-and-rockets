@@ -1,0 +1,4 @@
+const FILTER_YEAR = "2018";
+const FILTER_CUSTOMERS = ["NASA", "NASA(COTS)", "NASA (CRS)"];
+
+export { FILTER_YEAR, FILTER_CUSTOMERS };
